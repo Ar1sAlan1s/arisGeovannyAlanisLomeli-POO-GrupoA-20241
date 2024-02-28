@@ -1,10 +1,10 @@
 public class Persona {
-    String Nombre;
+    String Nombree;
     int Edad;
     char Genero;
 
-    Persona(String Nombre, int Edad, char Genero) {
-        this.Nombre = Nombre;
+    Persona(String Nombree, int Edad, char Genero) {
+        this.Nombree = Nombree;
         this.Edad = Edad;
         this.Genero = Genero;
     }

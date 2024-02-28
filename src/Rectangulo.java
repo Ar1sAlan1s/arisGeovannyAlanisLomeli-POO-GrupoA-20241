@@ -8,7 +8,7 @@ public class Rectangulo {
     }
 
     public double Area() {
-        double Area = 0.0;
+        double Area ;
         Area = this.alto * this.ancho;
         System.out.println(Area);
         return Area;

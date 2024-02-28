@@ -3,22 +3,22 @@
 public class Main {
     public static void main(String[] args) {
         Persona P1 = new Persona("Mateo", 23, 'M');
-        System.out.println(P1.Nombre);
+        System.out.println(P1.Nombree);
         System.out.println(P1.Edad);
         System.out.println(P1.Genero);
-        System.out.println("**************************");
+        System.out.println("**************************j");
         Persona P2 = new Persona("Sandy", 13, 'F');
-        System.out.println(P2.Nombre);
+        System.out.println(P2.Nombree);
         System.out.println(P2.Edad);
         System.out.println(P2.Genero);
         System.out.println("**************************");
         Persona P3 = new Persona("Alejandro", 40, 'M');
-        System.out.println(P3.Nombre);
+        System.out.println(P3.Nombree);
         System.out.println(P3.Edad);
         System.out.println(P3.Genero);
         System.out.println("**************************");
         Persona P4 = new Persona("Laura", 32, 'F');
-        System.out.println(P4.Nombre);
+        System.out.println(P4.Nombree);
         System.out.println(P4.Edad);
         System.out.println(P4.Genero);
         System.out.println("**************************");
